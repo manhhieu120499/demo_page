@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.header {
+    width: 100%;
+    height: 150px;
+    background-color: #FC8D0C;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-header {
+    display: flex;
+    align-items: center;
+}
+
+.left-header .picture {
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.right-header {
+    
+}
+

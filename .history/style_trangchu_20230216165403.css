@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    width: 100vw;
+    height: 1000px;
+}
+
+.header {
+    width: 100%;
+    height: 150px;
+    background-color: #FC8D0C;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-header {
+    display: flex;
+    align-items: center;
+}
+
+.left-header h2 {
+    color: white;
+    border-bottom: 2px solid white;
+    font-style: italic;
+}
+
+.left-header .picture {
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.right-header {
+    margin-top: 100px;
+}
+
+.right-header a {
+    text-decoration: none;
+    color: white;
+    font-size: 19px;
+    padding-right: 20px;
+}
+
+.right-header button {
+    background-color: #EA0E0E;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    margin-right: 10px;
+    color: white;
+}
+
+/*Silde*/
+.slide img {
+    width: 100vw;
+    height: 350px;
+}
+
+.album_items {
+    width: 100vw;
+    height: 400px;
+    background-color: #FEEAC3;
+}
+
+.album_items_left .picture_album {
+    width: 250px;
+    border-radius:10px;
+    margin-top: ;
+}

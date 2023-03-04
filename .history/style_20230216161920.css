@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100vw;
+    height: 2000px;
+    background-color: rgba(245, 222, 179, 0.5);
+    overflow-x: hidden;
+}
+
+.shop-logo img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    object-fit: cover;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.Shop-header {
+    height: 80px;
+    background-color: orange;
+}
+
+.Shop-menu {
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+}
+
+.menu-left li {
+    display: inline-block;
+}
+
+.menu-left li a {
+    text-decoration: none;
+    color: #000;
+    /* padding: 20px 25px; */
+    line-height: 80px;
+    padding: 0 25px;
+}
+
+.menu-right li {
+    display: inline-block;
+    line-height: 80px;
+    padding: 0px 25px;
+}
+
+.menu-right > li > a {
+    line-height: 80px;
+}
+
+.menu-right li a {
+    list-style: none;
+}
+
+input {
+    padding: 10px 15px;
+    border-radius: 40px;
+    border: none;
+}
+
+/*
+ 

@@ -1,0 +1,131 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+/* body {
+    width: 100vw;
+    height: 1000px;
+} */
+
+
+/* .header {
+    width: 100vw;
+    height: 150px;
+    background-color: #FC8D0C;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-header {
+    display: flex;
+    align-items: center;
+}
+
+.left-header .picture {
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+
+
+
+.left-header h2 {
+    color: white;
+    border-bottom: 2px solid white;
+    font-style: italic;
+}
+
+
+
+.right-header {
+    margin-top: 100px;
+}
+
+.right-header a {
+    text-decoration: none;
+    color: white;
+    font-size: 19px;
+    padding: 10px;
+    margin-right: 80px;
+}
+
+.right-header button {
+    background-color: #EA0E0E;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    margin-right: 80px;
+    color: white;
+} */
+
+/*Silde*/
+/* .slide img {
+    width: 100vw;
+    height: 350px;
+}
+
+.album_items {
+    width: 100vw;
+    height: 400px;
+    background-color: #FEEAC3;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.album_items_left {
+    margin-right: 40px;
+}
+
+.album_items_left .picture_album {
+    width: 250px;
+    border-radius:10px;
+    margin-top: 10px;
+}
+
+.picture_items {
+    display: flex;
+    justify-content: space-between;
+}
+.picture_items .items {
+    width: 200px;
+    height: 300px;
+    
+} */
+
+
+.header {
+    height: 150px;
+    background-color: #FC8D0C;
+    display: flex;
+    align-items: center;
+}
+
+.left-header {
+    display: flex;
+    align-items: center;
+}
+
+.left-header .picture {
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+
+.right-header a {
+    text-decoration: none;
+    color: white;
+    font-size: 19px;
+    padding: 10px;
+    margin-left: 100px;
+}
+
+
+
+
+

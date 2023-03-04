@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: #FC8D0C;
+    display: flex;
+    justify-content: space-around;
+}
+
+.left-header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.left-header .picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.left-header .shop_name {
+    color: white;
+    font-size: 25px;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.right-header .link > a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 0 10px;
+}
+
+.right-header {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 20px;
+    gap: 30px;
+}
+
+.right-header .btn > button {
+    background-color: #EA0E0E;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
